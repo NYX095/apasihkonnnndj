@@ -8,6 +8,10 @@
 <a href="https://github.com/Fernazer/games-wabot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Fernazer/games-wabot?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/Fernazer/games-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Fernazer/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
+## ```Deploy```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yusu0/apasihkonnnndj/)
+
 ## Join Group Bot
 [`Group Whatsapp`](https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM)
 ### FOR TERMUX USER
