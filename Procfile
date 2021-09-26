@@ -1,1 +1,1 @@
-worker : npm start
+worker : npm install && npm start && pkg install imagemagick -y
